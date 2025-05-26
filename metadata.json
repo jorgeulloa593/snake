@@ -1,0 +1,6 @@
+
+{
+  "name": "Dual Snake Arena",
+  "description": "A classic snake game where two players compete simultaneously. The player whose snake grows longer wins, but colliding with oneself, the opponent, or the walls means defeat. If both players crash, the one with the longer snake at the moment of impact wins."
+}
+    
